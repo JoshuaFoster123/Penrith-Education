@@ -41,4 +41,4 @@ Case studies need to be written in markdown a guide can be found in the [Markdow
 
 --- 
 
-Complete case studies can be submitted here: [Submit :fontawesome-solid-paper-plane:](mailto:joshua.foster@health.nsw.gov.au){ .md-button }
+Complete case studies can be submitted here: [Submit :fontawesome-solid-paper-plane:](mailto:submissions@penrith.education){ .md-button }

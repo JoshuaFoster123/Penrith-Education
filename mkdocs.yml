@@ -17,6 +17,7 @@ nav:
   - Case studies:
       - Case 1: Case Studies/case 1.md
   - Contribution guides:
+      - General guide: Guides/General guide.md
       - Case Study guide: Guides/Case study guide.md
       - Markdown help: Guides/Markdown guide.md
 
@@ -76,11 +77,11 @@ extra:
   # Footer social links
   social:
     - icon: material/email-fast
-      link: mailto:joshyfostet@gmail.com
+      link: mailto:submissions@penrith.education
       name: Something wrong? Email us.
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/groups/350502002252540
-      name: Contact us on facebook
+      name: WSNBM Clinical Express
     - icon: fontawesome/brands/github
       link: https://github.com/JoshuaFoster123/Penrith-Education
       name: View source on github

@@ -188,4 +188,4 @@ Beta blocker overdose is potentially life threatening. The mainstays of treatmen
 	
 	Feedback is always welcomed and encouraged.
 	
-	[Send :fontawesome-solid-paper-plane:](mailto:joshyfostet@gmail.com){ .md-button }
+	[Send :fontawesome-solid-paper-plane:](mailto:submissions@penrith.education){ .md-button }

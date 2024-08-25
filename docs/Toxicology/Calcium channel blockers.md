@@ -72,10 +72,11 @@ Symptomatic management of CCB overdose is the forefront of pre-hospital care. Ra
 	A VCP will need to be completed if calcium gluconate is used in the setting of CCB overdose.
 
 
+Early activation of ICP resources would be of great benefit. Although not always available, it is always advised to ask!
+
 ## References
 
 1. [CCBs - Australia Prescriber](https://australianprescriber.tg.org.au/articles/calcium-channel-antagonists.html)
 2. [CCB poisoning - Therapeutic guidelines](https://tgldcdp.tg.org.au.acs.hcn.com.au/viewTopic?etgAccess=true&guidelinePage=Toxicology%20and%20Toxinology&topicfile=toxicology-dihydropyridine-calcium-channel-blocker&guidelinename=Toxicology%20and%20Toxinology&sectionId=toc_d1e47#toc_d1e47)
 3. [Calcium Channel Blocker Toxicity - LITFl](https://litfl.com/calcium-channel-blocker-toxicity/)
 4. [Austin Clinical toxicology guidelines](https://www.austin.org.au/page?ID=1791)
-5. 
