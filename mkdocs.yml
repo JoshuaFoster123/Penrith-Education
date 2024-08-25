@@ -1,0 +1,111 @@
+site_name: Penrith Education
+
+watch:
+  - includes
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Toxicology:
+      - Beta Blockers: Toxicology/Beta-blocker.md
+      - Calcium channel blockers: Toxicology/Calcium channel blockers.md
+  - Cardiac:
+      - Cardiac action potential: ECG/Cardiac action potential.md
+      - ECG Interpretation: ECG/ECG Basics.md
+  - Case studies:
+      - none: none
+  - Contribution guides:
+      - General guide: Guides/General guide.md
+      - Case Study guide: Guides/Case study guide.md
+      - Markdown help: Guides/Markdown guide.md
+
+theme:
+  name: material
+  # custom_dir: overrides
+  icon:
+    logo: fontawesome/solid/heart-pulse
+    admonition:
+      info: material/head-question
+  font:
+    text: Roboto
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    # - navigation.tabs
+    - navigation.expand
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: green
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: black
+      accent: green
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+plugins:
+  - search
+  - social
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+      manual: false
+extra:
+  generator: false
+
+  # Footer social links
+  social:
+    - icon: material/email-fast
+      link: mailto:joshyfostet@gmail.com
+      name: Something wrong? Email us.
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/350502002252540
+      name: Contact us on facebook
+
+copyright: Free and open education
+markdown_extensions:
+  - abbr
+  - admonition
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - md_in_html
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - footnotes
+  - def_list
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+      custom_checkbox: true
