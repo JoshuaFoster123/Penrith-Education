@@ -33,11 +33,11 @@ theme:
     text: Roboto
   features:
     - content.code.copy
-    # - navigation.sections
+    - navigation.sections
     - navigation.top
     - search.suggest
     # - navigation.tabs
-    # - navigation.expand
+    - navigation.expand
   palette:
     - scheme: default
       primary: blue grey
