@@ -15,7 +15,7 @@ nav:
       - Cardiac action potential: ECG/Cardiac action potential.md
       - ECG Interpretation: ECG/ECG Basics.md
   - Case studies:
-      - none: none
+      - Case 1: Case Studies/case 1.md
   - Contribution guides:
       - General guide: Guides/General guide.md
       - Case Study guide: Guides/Case study guide.md
@@ -24,6 +24,7 @@ nav:
 theme:
   name: material
   # custom_dir: overrides
+  favicon: images/ambulance.png
   icon:
     logo: fontawesome/solid/heart-pulse
     admonition:
@@ -31,11 +32,12 @@ theme:
   font:
     text: Roboto
   features:
-    - navigation.sections
+    - content.code.copy
+    # - navigation.sections
     - navigation.top
     - search.suggest
     # - navigation.tabs
-    - navigation.expand
+    # - navigation.expand
   palette:
     - scheme: default
       primary: blue grey
@@ -69,7 +71,6 @@ plugins:
       caption_position: bottom
       background: white
       shadow: true
-      manual: false
 extra:
   generator: false
 
@@ -106,6 +107,14 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - footnotes
   - def_list
+  - pymdownx.details
   - pymdownx.tasklist:
       clickable_checkbox: true
       custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite

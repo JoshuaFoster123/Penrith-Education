@@ -51,6 +51,26 @@ Non-Dihydropyridines are the most lethal CCBs due to their non-selective nature,
 
 ## Prehospital Management
 
+Symptomatic management of CCB overdose is the forefront of pre-hospital care. Rapid transport to a tertiary hospital is necessary. 
+
+**Bradycardia**
+
+1. Atropine - 600mcg undiluted bolus, RPT: 1min, Max Dose: 3mg
+2. Adrenaline - 50mcg bolus 1:1000, RPT: 1min, NO MAX
+3. Adrenaline infusion
+4. Calcium Gluconate 10%
+5. Trans cutaneous pacing - May be difficult to obtain capture
+
+**Hypotension**
+
+1. 20ml/kg Bolus, whilst indicated, NO MAX
+2. Calcium Gluconate 10%
+
+!!!warning "Calcium Gluconate" 
+	Calcium gluconate can have useful temporising effects on HR and BP. <br>Calcium gluconate is only indicated for hyperkalemia in NSWA. 
+	
+	A VCP will need to be completed if calcium gluconate is used in the setting of CCB overdose.
+
 
 ## References
 

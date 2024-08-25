@@ -16,6 +16,8 @@ Below is a general guide to what can/should be included in a case study - follow
 
 I will iterate again that privacy is a must and any case studies with identifying information will not be posted. 
 
+Case studies need to be written in markdown a guide can be found in the [Markdown Guide](/Guides/Markdown guide)
+
 ---
 ## **Check list**
 
@@ -35,4 +37,8 @@ I will iterate again that privacy is a must and any case studies with identifyin
 	- [ ] Written about a specific topic of management/presentation
 	- [ ] Evidence based review of management/presentation
 - [ ] References included
-	- [ ] unordered reference list
+	- [ ] reference list
+
+--- 
+
+Complete case studies can be submitted here: [Submit :fontawesome-solid-paper-plane:](mailto:joshua.foster@health.nsw.gov.au){ .md-button }
