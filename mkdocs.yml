@@ -82,6 +82,9 @@ extra:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/groups/350502002252540
       name: Contact us on facebook
+    - icon: fontawesome/brands/github
+      link: https://github.com/JoshuaFoster123/Penrith-Education
+      name: View source on github
 
 copyright: Free and open education
 markdown_extensions:
